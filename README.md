@@ -1,2 +1,2 @@
 # Big_Five_Personality_Test--EDA
-Realiza-se nesse estudo uma análise exploratória do conjunto de dados do kaggle BIG FIVE PERSONALITY TEST. Um estudo conciso utilizando metódos estatísticos e diversas técnicas para analisar, entender e concluir sobre os dados.
+Realiza-se nesse projeto uma análise exploratória do conjunto de dados Big Five Personality Test do Kaggle. Um estudo conciso utilizando métodos estatísticos e diversas técnicas para analisar, entender e concluir sobre os dados. 
